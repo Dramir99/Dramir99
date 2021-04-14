@@ -1,7 +1,7 @@
 -  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I’m @Dramir99
 ---
 
-I'm a Senior at California State University, of Los Angeles currently studying Computer Science
+I'm a Senior at California State University, of Los Angeles currently studying Computer Science<br>
 Currently im taking a course about React-Native and learning how to create a dynamic App but i have also learned other programming langaues listed below
 
 ---
@@ -15,6 +15,10 @@ Currently im taking a course about React-Native and learning how to create a dyn
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="UBUNTU logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50" height="50" />
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dramir99&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 Dramir99/Dramir99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
