@@ -2,12 +2,19 @@
 ---
 
 I'm a Senior at California State University, of Los Angeles currently studying Computer Science
-Currently the im taking a course about React-Native and learning how to create a dynamic App but i have also learned other programming langaues listed below
+Currently im taking a course about React-Native and learning how to create a dynamic App but i have also learned other programming langaues listed below
 
 ---
 🧰 ToolBox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="UBUNTU logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50" height="50" />
 
 <!---
 Dramir99/Dramir99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
