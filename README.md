@@ -17,7 +17,7 @@ Currently im taking a course about React-Native and learning how to create a dyn
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50" height="50" />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dramir99&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dramir99&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
