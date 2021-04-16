@@ -1,4 +1,4 @@
--  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I’m Daniel Ramirez
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I’m Daniel Ramirez
 ---
 
 I'm a Senior at California State University, of Los Angeles currently studying Computer Science<br>
