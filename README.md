@@ -2,7 +2,7 @@
 ---
 
 I'm a Senior at California State University, of Los Angeles currently studying Computer Science<br>
-Currently im taking a course about React-Native and learning how to create a dynamic App but i have also learned other programming langaues listed below
+Currently im taking a course about React-Native and learning how to create a dynamic App but i have also learned other programming langauges listed below
 
 ---
 🧰 ToolBox
