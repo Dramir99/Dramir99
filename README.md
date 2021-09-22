@@ -1,8 +1,8 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I’m Daniel Ramirez
 ---
 
-I'm a Senior at California State University, of Los Angeles currently studying Computer Science<br>
-Currently im taking a course about React-Native and learning how to create a dynamic App but i have also learned other programming langauges listed below
+I'm a graduate of California State University, of Los Angeles majoring in Computer Science<br>
+Currently trying to learn about AWS
 
 ---
 🧰 ToolBox
