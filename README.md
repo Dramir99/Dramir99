@@ -1,8 +1,8 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I’m Daniel Ramirez
 ---
 
-I'm a graduate of California State University, of Los Angeles majoring in Computer Science<br>
-Currently trying to learn about AWS
+I'm a first generation college graduate with a Bachelor of Science degree
+from California State University of Los Angeles interested in software
 
 ---
 🧰 ToolBox
